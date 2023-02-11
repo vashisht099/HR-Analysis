@@ -9,3 +9,5 @@ The two primary objectives of this analysis are to:
 In today's fast-paced business environment, it is crucial for companies to stay informed about the wellbeing of their employees and to make informed decisions that enhance their productivity and satisfaction. 
 
 In addition to understanding the preferences and wellbeing of employees, this analysis also provides valuable information that can inform effective resource planning for the company. By analyzing the working preferences of employees and understanding their leave taking trends, the company can make informed decisions about resource allocation and effectively plan for personnel availability. This proactive approach to resource planning can lead to improved efficiency, productivity, and overall success of the organization.
+
+Dataset Credits: https://codebasics.io/resources
