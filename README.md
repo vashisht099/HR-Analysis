@@ -1,6 +1,10 @@
 # HR-Analysis
-This analysis is done in order to solve some of the real life challenges of an HR.
-The dataset consists of some company's employees and their attendance on the daily basis.
-The HR wants to analyse following things in order to make certain decisions.
-1. The working preference of employees ie. whether they prefer working from home or working from office.
-2. Secondly, what is the percentage of employees taking sick leaves or half day sick leaves in particular period of year or month.
+
+The purpose of this HR analysis project is to address real-life challenges faced by HR departments. Utilizing a dataset consisting of employee attendance records, the project aims to uncover key insights that can inform critical HR decisions.
+
+The two primary objectives of this analysis are to:
+1. Determine the working preferences of employees in regards to working from home versus working from the office.
+2. Evaluate the prevalence of sick leaves, including full and half-day absences, over a specific time period.
+In today's fast-paced business environment, it is crucial for companies to stay informed about the wellbeing of their employees and to make informed decisions that enhance their productivity and satisfaction. 
+
+In addition to understanding the preferences and wellbeing of employees, this analysis also provides valuable information that can inform effective resource planning for the company. By analyzing the working preferences of employees and understanding their leave taking trends, the company can make informed decisions about resource allocation and effectively plan for personnel availability. This proactive approach to resource planning can lead to improved efficiency, productivity, and overall success of the organization.
